@@ -11,20 +11,20 @@ Example brainfuck programs can be found in the [Fabianishere Brainfuck GitHub re
 
 ### Setup
 
-```
-npm install
+```console
+$ npm install
 ```
 
 ### Running
 
-```
-npm run bf <filename>
+```console
+$ npm run bf <filename>
 ```
 
 Example:
 
-```
-npm run bf programs/helloworld.bf
+```console
+$ npm run bf programs/helloworld.bf
 
 Interpreting programs/helloworld.bf
 
