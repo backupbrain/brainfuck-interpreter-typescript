@@ -1,0 +1,19 @@
+{
+  "name": "brainfuck-interpreter-ts",
+  "version": "1.0.0",
+  "description": "Brainfuck interpreter in JS",
+  "scripts": {
+    "bf": "./node_modules/ts-node/dist/bin.js src/run.ts"
+  },
+  "keywords": [
+    "brainfuck",
+    "typescript"
+  ],
+  "author": "backupbrain@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
